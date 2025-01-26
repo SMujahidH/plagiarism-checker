@@ -28,7 +28,6 @@ Here’s how you can add this information to the **README.md** file:
 
 ---
 
-### Updated README Section
 
 #### **Google API Usage and Quota Information**
 
