@@ -22,12 +22,7 @@ This project is a plagiarism detection application built using:
 
 ## Prerequisites
 
-### Google API usage
-
-Here’s how you can add this information to the **README.md** file:
-
----
-
+### Google API
 
 #### **Google API Usage and Quota Information**
 
